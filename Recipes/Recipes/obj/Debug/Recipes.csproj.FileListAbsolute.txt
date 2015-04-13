@@ -1,0 +1,6 @@
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\bin\Debug\Recipes.exe.config
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\bin\Debug\Recipes.exe
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\bin\Debug\Recipes.pdb
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\obj\Debug\Recipes.csprojResolveAssemblyReference.cache
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\obj\Debug\Recipes.exe
+C:\Users\Ben Kenobi\Documents\GitHub\RecipeDB\Recipes\Recipes\obj\Debug\Recipes.pdb
